@@ -1,4 +1,9 @@
 # Government-Tender-Tracker-Bid-Match-Recommender
+
+**Video Link:** https://www.loom.com/share/726df4839cf647f3b9c17a67f9affd4b?sid=f8443f1b-9b7f-4568-8504-e8f737e475ce
+
+**LinkedIn** : https://www.linkedin.com/in/sumaiya-sulthana-906876137 
+
 **Full Technical Plan**: Government Tender Tracker & Recommender
 
 **1. Modules & Responsibilities**
